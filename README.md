@@ -10,6 +10,12 @@ because of its great **infrastructure** and __climate__ and is situated in south
    * Trekking
    * Water Games
    * Campaigning
+## Unordered list with foods:
+   * Tea
+   * Dal Makhni
+   * Chole Bhature
+   * Pani Puri
+   * Akki roti
 
 
    
